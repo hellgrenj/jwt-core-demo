@@ -1,0 +1,20 @@
+version: '2'
+services:
+  service1:
+    build: ./service1
+    ports:
+    - "5001:5001"
+    environment:
+    - JWT_SECRET="my_little_secret"
+  service2:
+    build: ./service2
+    ports:
+    - "5002:5002"
+    environment:
+    - JWT_SECRET="my_little_secret"
+  provider:
+    build: ./provider
+    ports:
+    - "5000:5000"
+    environment:
+    - JWT_SECRET="my_little_secret"
