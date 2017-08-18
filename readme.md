@@ -3,7 +3,7 @@
 A demo of JWT (JSON web tokens) in .NET Core and Node.js running in docker (**Linux**) containers. It's one command to spin up the demo system (3 services) and one command to run a demo client. For more JWT goodness checkout the blog post linked below.
 
 ## prerequisites
-* [node.js 8.2.1](https://nodejs.org/en/) (if you haven't already, checkout [nvm](https://github.com/creationix/nvm) for multiple node versions)
+* [node.js 8.x](https://nodejs.org/en/) (if you haven't already, checkout [nvm](https://github.com/creationix/nvm) for multiple node versions)
 * [docker](https://www.docker.com/) (tested on community edition 17.06.0-ce-mac19)
 
 
