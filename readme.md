@@ -22,7 +22,7 @@ Further reading on this topic: [JSON Web Tokens are made for Microservices](http
 
 ## blog post
 
-[JSON Web Tokens for people in a hurry]()
+[JSON Web Tokens for people in a hurry](http://hellgrenj.tumblr.com/post/164328292793/json-web-tokens-for-people-in-a-hurry)
 
 ## next step
 There are some community-led off the shelf solutions you should check out, for example:  
